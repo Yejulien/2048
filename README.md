@@ -68,7 +68,7 @@ Librairies requises :
    ```sh
    code main.code-workspace
    ```
-3. Appuyer sur la touche `F5` pour exécuter le jeu.
+3. Se placer dans le fichier settings.json et appuyer sur la touche `F5` pour exécuter le jeu.
 
 #### Back-end (Serveur)
 
